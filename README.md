@@ -1,16 +1,13 @@
-### Hi there 👋
+# who, me?
+hiiiiii~
 
-<!--
-**izzergh/izzergh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm into math and etymology and unicode... basically pedantry is my hobby.
+I'm also into other things that are more difficult to justify cracking open a git repo about!
 
-Here are some ideas to get you started:
+I'm not really into websites. I gave it a good try.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I go by is!
+
+# hmmmm?
+
+Please install my [plugin for vim](https://github.com/izzergh/rumpelstiltskin) and tell me if it breaks or sucks, or even if it slaps.
