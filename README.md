@@ -10,4 +10,6 @@ I go by is!
 
 # hmmmm?
 
+I have a [website](yours.is) with an excellent url. I put writing there for now, it's okay! It's fresh!
+
 Please install my [plugin for vim](https://github.com/izzergh/rumpelstiltskin) and tell me if it breaks or sucks, or even if it slaps.
